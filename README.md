@@ -8,17 +8,17 @@ mentioned Entities.
 
 ## SnapShots
 ## 1 Spring Run
-![web](https://github.com/shinchancode/CRUD-Operation/blob/main/Images/1.png)
+![web](https://github.com/codewithrathi/CRUD-Operation/blob/main/Images/1.png)
 ## 2 Output
-![web](https://github.com/shinchancode/CRUD-Operation/blob/main/Images/2.png)
+![web](https://github.com/codewithrathi/CRUD-Operation/blob/main/Images/2.png)
 ## 3 GET request
-![web](https://github.com/shinchancode/CRUD-Operation/blob/main/Images/3.png)
+![web](https://github.com/codewithrathi/CRUD-Operation/blob/main/Images/3.png)
 ## 4 POST request
-![web](https://github.com/shinchancode/CRUD-Operation/blob/main/Images/4.png)
+![web](https://github.com/codewithrathi/CRUD-Operation/blob/main/Images/4.png)
 ## 5 PUT request
-![web](https://github.com/shinchancode/CRUD-Operation/blob/main/Images/5.png)
+![web](https://github.com/codewithrathi/CRUD-Operation/blob/main/Images/5.png)
 ## 6 DELETE request
-![web](https://github.com/shinchancode/CRUD-Operation/blob/main/Images/6.png)
+![web](https://github.com/codewithrathi/CRUD-Operation/blob/main/Images/6.png)
 
 ## RESOURCES
 # Spring Boot / Jersey with API Development(CRUD)
